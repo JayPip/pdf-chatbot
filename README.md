@@ -1,1 +1,2 @@
 # pdf-chatbot
+This ChatBot for PDF Analysis simplifies the task of extracting information from PDF files. Its user-friendly interface allows users to interact conversationally, making processes like text extraction, question-answering, and keyword searches more accessible and efficient.
